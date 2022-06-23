@@ -68,11 +68,20 @@ podemos elegir continuar  en el programa o finalizarlo .
 ![image](https://user-images.githubusercontent.com/94869227/175197837-43361d7a-c262-4299-a3c5-68b0449334d9.png)
 
 
-### ¿que se utilizó?
+### <h2>¿Qué se utilizó? </h2>
+
 Se utilizó java.io las operaciones de entrada/salida de Api 
 Se Conectó la aplicación con una API de tipos de cambio en tiempo real, ya que las tasas cambian constantemente permitiendo que la aplicación siga funcioncionando de manera correcta indepedimiente del  cambio en las tasas  monetarias
 
 ![image](https://user-images.githubusercontent.com/94869227/175204627-89f42e4b-7d02-4ff2-81db-8553204c0936.png)
+
+Se usaron validaciones para que a la hora de ingresar la información se  pudiera recibir la respuesta correcta
+
+se  usaron Exepciones como NumberFormatException para poder evitar problemas de parte del Api, del programa o del usuario
+
+se usó  la libreria  javax.swing.JOptionPane para el manejo de interfaces gráficas, permitiendo mostrar los conocimiento adquiridos en el lenguaje Java de una forma más accesible al usuario 
+
+El código  se agrupó en clases y en paquetes (package) para que su comprención  y mantenimiento fuera más facil y entendible  
 
 
 
