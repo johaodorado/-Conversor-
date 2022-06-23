@@ -15,7 +15,8 @@ Al iniciar la aplicación se da  la opcion de elegir entre el conversor de divis
 
 ![image](https://user-images.githubusercontent.com/94869227/175188690-e65e0a38-4fa9-4a98-8bb3-7919e2823427.png)
 
-Despues saldrá un menú donde se  nos indica las  opciones que hay que para hacer la  conversión 
+Despues saldrá un menú donde se  nos indica las  opciones que hay que para hacer la  conversión de la divisa elegida
+
 ![image](https://user-images.githubusercontent.com/94869227/175188940-497978f1-6838-47ec-b2a0-eeeb6aee6a50.png)
 
 
