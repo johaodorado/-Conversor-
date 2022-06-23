@@ -31,13 +31,31 @@ En el caso de que  no haya ningún error,se despliega un cuadro de dialogo con l
 ![image](https://user-images.githubusercontent.com/94869227/175195532-ab5cb385-4e40-41e4-a41b-beda7ad93016.png)
 
 
-Finalizando muestra un cuadro para elegir seguir en el programa y empezar de nuevo o finalizar el mismo.
+Finalizando muestra un cuadro para elegir si se quiere iniciar de  nuevo el programa o se quiere terminar.
 
-En caso de seguir en el programa se vuelve al comienzo para elegir otra conversión, si optamos por el conversor de peso Interplanetario
+![image](https://user-images.githubusercontent.com/94869227/175196145-e2fb526b-68f4-4211-a876-de8073197612.png)
 
-Nos presentara el siguiente cuadro donde debemos cargar el peso en kilogramos a convertir
+En el caso de que se decida terminar  terminar  el programa, se mostrará un mensaje al usuario donde se indique "Programa Terminado"
 
-A continuacion deberemos elegir a que cuerpo celestial queremos convertir nuestro peso en Kilogramos
+![image](https://user-images.githubusercontent.com/94869227/175196388-d2c0ae51-3783-456a-836f-6b3e83150928.png)
+
+
+En caso de seguir en el programa, se vuelve al comienzo para elegir otra conversión, en este caso  el conversor de temperatura
+
+![image](https://user-images.githubusercontent.com/94869227/175196595-5649c6f8-1125-43e0-a71f-35f900ff4e3a.png)
+
+
+Nos presentará un  cuadro de dialogo  donde debemos seleccionar el tipo de conversión
+
+![image](https://user-images.githubusercontent.com/94869227/175196988-92d24ad7-5d53-4f8c-9629-d9364b69dd48.png)
+
+
+A continuacion deberemos ingresar el valor quequeremos convertir, se nos recordará la opción elegida anteriormente
+
+![image](https://user-images.githubusercontent.com/94869227/175197191-c949b16c-aade-4720-908e-b016c2da7c58.png)
+
+
+Si se ingresa un valor no valido, saldrá un cuadro de error
 
 Dando "Aceptar" nos muestra finalmente la equivalencia solicitada.
 
