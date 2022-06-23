@@ -12,8 +12,8 @@ Este Challenge  forma parte del proyecto ONE – Oracle Next Education con alula
 
 https://user-images.githubusercontent.com/94869227/175227834-69106d20-da14-4f59-9919-f5901f27b59a.mp4
 
-## Funciónamiento 
-Al iniciar la aplicación se da  la opcion de elegir entre el conversor de divisas o el conversos de temperatura,en este caso se utilizará el conversor de divisas
+## Funcionamiento 
+Al iniciar la aplicación se da  la opción de elegir entre el conversor de divisas o el conversor de temperatura, en este caso se utilizará el conversor de divisas
 
 ![image](https://user-images.githubusercontent.com/94869227/175188690-e65e0a38-4fa9-4a98-8bb3-7919e2823427.png)
 
@@ -25,12 +25,12 @@ Una vez elegida la divisa aparece un cuadro de diálogo en el cual se tiene que 
 
 ![image](https://user-images.githubusercontent.com/94869227/175193479-c2206550-4208-4d4d-9d8a-9243ee4cfab5.png)
 
-En caso de que se ingrese un valor que  no sea válido o no se ingrese nigún valor,se mostrará una mensaje de error y se pegruntará si quiere iniciar de  nuevo .
+En caso de que se ingrese un valor que  no sea válido o no se ingrese ningún valor, se mostrará un mensaje de error y se pregruntará si quiere iniciar de  nuevo .
 
 ![image](https://user-images.githubusercontent.com/94869227/175193624-376fef80-340c-44a1-bc60-e6c9a4bfc548.png)  ![image](https://user-images.githubusercontent.com/94869227/175195260-e2e93f0a-d01c-4413-9eb2-f106452f5c02.png) ![image](https://user-images.githubusercontent.com/94869227/175195307-81903641-6241-43a6-b2a1-364909adc8f3.png)
 
 
-En el caso de que  no haya ningún error,se despliega un cuadro de dialogo con la conversión solicitada.
+En el caso de que  no haya ningún error, se despliega un cuadro de diálogo con la conversión solicitada.
 ![image](https://user-images.githubusercontent.com/94869227/175195532-ab5cb385-4e40-41e4-a41b-beda7ad93016.png)
 
 
@@ -48,12 +48,12 @@ En caso de seguir en el programa, se vuelve al comienzo para elegir otra convers
 ![image](https://user-images.githubusercontent.com/94869227/175196595-5649c6f8-1125-43e0-a71f-35f900ff4e3a.png)
 
 
-Nos presentará un  cuadro de dialogo  donde debemos seleccionar el tipo de conversión
+Nos presentará un  cuadro de diálogo  donde debemos seleccionar el tipo de conversión
 
 ![image](https://user-images.githubusercontent.com/94869227/175196988-92d24ad7-5d53-4f8c-9629-d9364b69dd48.png)
 
 
-A continuacion deberemos ingresar el valor quequeremos convertir, se nos recordará la opción elegida anteriormente
+A continuación deberemos ingresar el valor que queremos convertir, se nos recordará la opción elegida anteriormente
 
 ![image](https://user-images.githubusercontent.com/94869227/175197191-c949b16c-aade-4720-908e-b016c2da7c58.png)
 
@@ -67,7 +67,7 @@ De lo contrario, saldrá el resultado de la conversión
 ![image](https://user-images.githubusercontent.com/94869227/175197798-384e5797-d7e7-477d-9692-184dcd6811cd.png)
 
 
-podemos elegir continuar  en el programa o finalizarlo .
+Podemos elegir continuar  en el programa o finalizarlo .
 
 ![image](https://user-images.githubusercontent.com/94869227/175197837-43361d7a-c262-4299-a3c5-68b0449334d9.png)
 
@@ -75,17 +75,17 @@ podemos elegir continuar  en el programa o finalizarlo .
 ### <h2>¿Qué se utilizó? </h2>
 
 Se utilizó java.io las operaciones de entrada/salida de Api 
-Se Conectó la aplicación con una API de tipos de cambio en tiempo real, ya que las tasas cambian constantemente permitiendo que la aplicación siga funcioncionando de manera correcta indepedimiente del  cambio en las tasas  monetarias
+Se Conectó la aplicación con una API de tipos de cambio en tiempo real, ya que las tasas cambian constantemente permitiendo que la aplicación siga funcionando de manera correcta independientemennte del  cambio en las tasas  monetarias
 
 ![image](https://user-images.githubusercontent.com/94869227/175204627-89f42e4b-7d02-4ff2-81db-8553204c0936.png)
 
 Se usaron validaciones para que a la hora de ingresar la información se  pudiera recibir la respuesta correcta
 
-se  usaron Exepciones como NumberFormatException para poder evitar problemas de parte del Api, del programa o del usuario
+se  usaron Excepciones como NumberFormatException para poder evitar problemas de parte del Api, del programa o del usuario
 
-se usó  la libreria  javax.swing.JOptionPane para el manejo de interfaces gráficas, permitiendo mostrar los conocimiento adquiridos en el lenguaje Java de una forma más accesible al usuario 
+se usó  la librería  javax.swing.JOptionPane para el manejo de interfaces gráficas, permitiendo mostrar el conocimiento adquirido en el lenguaje Java de una forma más accesible al usuario 
 
-El código  se agrupó en clases y en paquetes (package) para que su comprención  y mantenimiento fuera más facil y entendible  
+El código  se agrupó en clases y en paquetes (package) para que su comprensión  y mantenimiento fuera más fácil y entendible  
 
 
 
