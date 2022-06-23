@@ -21,9 +21,11 @@ Una vez elegida la divisa aparece un cuadro de diálogo en el cual se tiene que 
 
 ![image](https://user-images.githubusercontent.com/94869227/175193479-c2206550-4208-4d4d-9d8a-9243ee4cfab5.png)
 
-En caso de que se ingrese un valor que  no sea válido se mostrara una mensaje de error y se podrá cargar nuevamente el monto.
+En caso de que se ingrese un valor que  no sea válido o no se ingrese nigún valor,se mostrará una mensaje de error y se pegruntará si quiere iniciar de  nuevo .
 
-![image](https://user-images.githubusercontent.com/94869227/175193624-376fef80-340c-44a1-bc60-e6c9a4bfc548.png)
+![image](https://user-images.githubusercontent.com/94869227/175193624-376fef80-340c-44a1-bc60-e6c9a4bfc548.png)  ![image](https://user-images.githubusercontent.com/94869227/175195260-e2e93f0a-d01c-4413-9eb2-f106452f5c02.png) ![image](https://user-images.githubusercontent.com/94869227/175195307-81903641-6241-43a6-b2a1-364909adc8f3.png)
+
+
 
 
 Luego se despliega un cuadro de dialogo con la conversión solicitada.
