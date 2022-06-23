@@ -36,7 +36,9 @@ Dando "Aceptar" nos muestra finalmente la equivalencia solicitada.
 Nuevamente podemos elegir seguir en el programa o finalizar con la opción "No" o "Cancel".
 
 
-se utiliza un api 
+### que se utilizó
+
+## video
 
 
 
