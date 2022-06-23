@@ -26,7 +26,6 @@ En caso de que se ingrese un valor que  no sea válido o no se ingrese nigún va
 ![image](https://user-images.githubusercontent.com/94869227/175193624-376fef80-340c-44a1-bc60-e6c9a4bfc548.png)  ![image](https://user-images.githubusercontent.com/94869227/175195260-e2e93f0a-d01c-4413-9eb2-f106452f5c02.png) ![image](https://user-images.githubusercontent.com/94869227/175195307-81903641-6241-43a6-b2a1-364909adc8f3.png)
 
 
-
 En el caso de que  no haya ningún error,se despliega un cuadro de dialogo con la conversión solicitada.
 ![image](https://user-images.githubusercontent.com/94869227/175195532-ab5cb385-4e40-41e4-a41b-beda7ad93016.png)
 
@@ -57,9 +56,16 @@ A continuacion deberemos ingresar el valor quequeremos convertir, se nos recorda
 
 Si se ingresa un valor no valido, saldrá un cuadro de error
 
-Dando "Aceptar" nos muestra finalmente la equivalencia solicitada.
+![image](https://user-images.githubusercontent.com/94869227/175197548-cae24657-315c-4302-b1fd-225545dffac2.png)
 
-Nuevamente podemos elegir seguir en el programa o finalizar con la opción "No" o "Cancel".
+De lo contrario, saldrá el resultado de la conversión
+
+![image](https://user-images.githubusercontent.com/94869227/175197798-384e5797-d7e7-477d-9692-184dcd6811cd.png)
+
+
+podemos elegir continuar  en el programa o finalizarlo .
+
+![image](https://user-images.githubusercontent.com/94869227/175197837-43361d7a-c262-4299-a3c5-68b0449334d9.png)
 
 
 ### que se utilizó
