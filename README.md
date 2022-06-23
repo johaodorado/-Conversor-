@@ -68,7 +68,13 @@ podemos elegir continuar  en el programa o finalizarlo .
 ![image](https://user-images.githubusercontent.com/94869227/175197837-43361d7a-c262-4299-a3c5-68b0449334d9.png)
 
 
-### que se utilizó
+### ¿que se utilizó?
+Se utilizó java.io las operaciones de entrada/salida de Api 
+Se Conectó la aplicación con una API de tipos de cambio en tiempo real, ya que las tasas cambian constantemente permitiendo que la aplicación siga funcioncionando de manera correcta indepedimiente del  cambio en las tasas  monetarias
+
+![image](https://user-images.githubusercontent.com/94869227/175204627-89f42e4b-7d02-4ff2-81db-8553204c0936.png)
+
+
 
 ## video
 
