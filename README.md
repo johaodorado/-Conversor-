@@ -19,9 +19,11 @@ saldrá un menú donde se  nos indica las  opciones que hay que para hacer la  c
 
 Una vez elegida la divisa aparece un cuadro de diálogo en el cual se tiene que ingresar  el monto a convertir
 
+![image](https://user-images.githubusercontent.com/94869227/175193165-0c9213d2-d9d2-4dc3-bc58-fd91390e1d7b.png)
+
 En caso de que el número no sea válido se mostrara una mensaje de error y se podrá cargar nuevamente el monto.
 
-Luego se despliega una lista con las opciones de conversión y después se procede a mostrar la conversión solicitada.
+Luego se despliega un cuadro de dialogo con la conversión solicitada.
 
 Finalizando muestra un cuadro para elegir seguir en el programa y empezar de nuevo o finalizar el mismo.
 
