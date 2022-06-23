@@ -8,7 +8,7 @@ Este Challenge  forma parte del proyecto ONE – Oracle Next Education con alula
 
 ![Challenge Oracle Next Education + Alura Banner](https://raw.githubusercontent.com/EduardoUT/ConversorMoneda-ONE-Alura_Challenge/master/src/Imagenes/challengeImage.jpg)
 
-## Video
+## Demostración
 
 https://user-images.githubusercontent.com/94869227/175227834-69106d20-da14-4f59-9919-f5901f27b59a.mp4
 
