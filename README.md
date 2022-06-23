@@ -27,8 +27,9 @@ En caso de que se ingrese un valor que  no sea válido o no se ingrese nigún va
 
 
 
+En el caso de que  no haya ningún error,se despliega un cuadro de dialogo con la conversión solicitada.
+![image](https://user-images.githubusercontent.com/94869227/175195532-ab5cb385-4e40-41e4-a41b-beda7ad93016.png)
 
-Luego se despliega un cuadro de dialogo con la conversión solicitada.
 
 Finalizando muestra un cuadro para elegir seguir en el programa y empezar de nuevo o finalizar el mismo.
 
