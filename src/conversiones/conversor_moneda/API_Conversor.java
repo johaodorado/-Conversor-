@@ -19,15 +19,15 @@ public class API_Conversor {
 
 		
 		 try {
-			 
-			 URL url = new URL ("https://api.apilayer.com/exchangerates_data/convert?to="+pasar_a+"&from="+pasar_De+"&amount="+Cantidad_Dinero+"&apikey=wSIdZtZe37dtPx7doriTCt7sLqjjLo4X");
+			System.out.println("Esperando ejecución");	
+			URL url = new URL ("https://api.apilayer.com/exchangerates_data/convert?to="+pasar_a+"&from="+pasar_De+"&amount="+Cantidad_Dinero+"&apikey=wSIdZtZe37dtPx7doriTCt7sLqjjLo4X");
 			 //System.out.print(url);
 			 HttpURLConnection c_api =(HttpURLConnection) url.openConnection() ;
 			 c_api.setRequestMethod("GET");
 			 c_api.setRequestProperty("apikey", "wSIdZtZe37dtPx7doriTCt7sLqjjLo4X");
 			 
 			 if(c_api.getResponseCode()==200) {
-				System.out.print("respuesta");
+				
 				//mostrar respuesta
 				List information_string= new ArrayList();
 				Scanner scanner = new Scanner(url.openStream());
@@ -40,6 +40,7 @@ public class API_Conversor {
 			    String valor= (String)information_string.get(12); // para obtener el valor 
 			    valor= valor.replaceAll("\"result\": ",""); // quita esa palabra y devuelve solo el numero
 			    valor_final = Double.parseDouble(valor); // pasa el numero a dooble
+				System.out.println("El valor final  es: "+valor_final);								
 			   
 			    
 			 }else {
